@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+header{
+    background-size: cover;
+    background-color: gold;
+    background-position: 100%;
+    background: gold;
+}
+
+body{
+    background-image: url(bckg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+footer{
+    color: white;
+    background-size: cover;
+    background-color: gold;
+    background-position: 100%;
+    background: gold;
+}
+
+h2{
+    color: white;
+    
+}
+
+h3{
+    color: white;
+}
+
+li{
+    color: red;
+}
+
+ul{
+    color: gold;
+}
+
